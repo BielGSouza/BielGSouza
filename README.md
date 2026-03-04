@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel de Souza! 👋
 
-Sou um **Engenheiro de Software em formação** com paixão por construir soluções inovadoras e eficientes. Minha jornada no desenvolvimento me levou a explorar o universo **Fullstack**, com foco em tecnologias modernas para **Front-End** e **Back-End**.
+Sou um **Engenheiro de Software em formação na FIAP** com paixão por construir soluções inovadoras e eficientes. Minha jornada no desenvolvimento me levou a explorar o universo **Fullstack**, com foco em tecnologias modernas para **Front-End** e **Back-End**.
 
 Atualmente, estou aprimorando minhas habilidades em arquitetura de software, estruturas de dados e boas práticas de código para construir sistemas mais robustos e escaláveis.
 
@@ -23,7 +23,6 @@ Atualmente, estou aprimorando minhas habilidades em arquitetura de software, est
 -   **[PilatesFlow-Evolution](https://github.com/BielGSouza/PilatesFlow-Evolution )**: Um sistema completo para gerenciamento de clínicas de pilates, com funcionalidades de acompanhamento evolutivo de pacientes, cadastros, históricos de despesas e dashboard financeiro. Desenvolvido com React, Node.js e Prisma.
 -   **[BielG-Portifolio](https://github.com/BielGSouza/BielG-Portifolio )**: Meu portfólio pessoal, onde apresento meus projetos e habilidades.
 
-*(Adicione aqui outros projetos que você queira destacar, com links e uma breve descrição.)*
 
 ### 🌱 Atualmente Aprendendo:
 
